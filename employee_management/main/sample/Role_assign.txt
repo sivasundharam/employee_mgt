@@ -1,0 +1,7 @@
+Post :
+
+[{"emp_no":[127,126],"role_name":["lead"]}]
+
+Delete:
+
+[{"emp_no":[127,126],"role_name":["manager"]}]

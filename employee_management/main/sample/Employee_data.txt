@@ -1,0 +1,22 @@
+Post :
+
+
+[
+  {
+    "emp_no": 126,
+    "first_name": "siva",
+    "gender": "male",
+    "last_name": "sundharam"
+    
+  },
+  {
+	"emp_no":127,
+	"first_name":"siva",
+	"last_name":"sundharam",
+	"gender" : "male"
+}
+]
+
+Delete:
+
+[{"emp_no":126}]

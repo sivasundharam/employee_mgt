@@ -1,0 +1,7 @@
+Post:
+
+[{"role_name":"lead"},{"role_name":"manager"}]
+
+Delete:
+
+[{"role_name":"admin"}]
